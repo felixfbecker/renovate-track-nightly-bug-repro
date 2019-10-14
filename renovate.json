@@ -1,0 +1,11 @@
+{
+  "packageRules": [
+    {
+      "packageNames": ["typescript"],
+      "ignoreUnstable": false,
+      "followTag": "next",
+      "schedule": null,
+      "automerge": false
+    }
+  ]
+}
