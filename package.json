@@ -1,5 +1,5 @@
 {
   "dependencies": {
-    "typescript": "3.6.3"
+    "typescript": "3.9.0-dev.20200315"
   }
 }
